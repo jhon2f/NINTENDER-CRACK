@@ -1,0 +1,10 @@
+# checker runtime output — never commit (contains real account data)
+checks/
+premium/
+
+# runtime artifacts
+*.log
+license.txt
+__pycache__/
+*.pyc
+combos*.txt
